@@ -39,3 +39,17 @@ class Report:
     def report_reactionmeddrapt_by_occurcountry(self):
         df = self.get_reactionmeddrapt_by_occurcountry()
 
+        fig = plt.figure()
+        df.sum(axis=1).plot(kind="bar", figsize=(30, 6), fontsize=11)
+        plt.title("Number of adverse events reported by country")
+        fig.savefig("../output/reactions_by_country.png", dpi=fig.dpi)
+
+        fig = plt.figure()
+        df.transpose().describe().loc["count"].sort_values().plot(kind="bar", figsize=(32, 12), fontsize=11)
+        plt.title("Number of distinct adverse events reported by country")
+        fig.savefig("../output/distinct_reactions_by_country.png", dpi=fig.dpi)
+
+        fig = plt.figure()
+        df.transpose().describe().loc["count"].plot(kind="hist", figsize=(15, 3), fontsize=11)
+        plt.title("Histogram of number of distinct adverse events reported by country")
+        fig.savefig("../output/hist_distinct_reactions_by_country.png", dpi=fig.dpi)
