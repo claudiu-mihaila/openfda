@@ -3,7 +3,7 @@
 import matplotlib.pyplot as plt
 import numpy
 import pandas
-from matplotlib.ticker import FuncFormatter, MaxNLocator, FixedLocator, IndexLocator
+from matplotlib.ticker import FuncFormatter, IndexLocator
 from scipy.spatial.distance import euclidean, pdist, squareform
 
 from src.openfda import get_reactionmeddrapt_event_count_by_occurcountry, OpenFDA
