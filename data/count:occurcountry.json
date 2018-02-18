@@ -1,0 +1,858 @@
+[
+    {
+        "count": 1357537, 
+        "term": "US"
+    }, 
+    {
+        "count": 177379, 
+        "term": "GB"
+    }, 
+    {
+        "count": 146792, 
+        "term": "JP"
+    }, 
+    {
+        "count": 119823, 
+        "term": "CA"
+    }, 
+    {
+        "count": 113844, 
+        "term": "FR"
+    }, 
+    {
+        "count": 96173, 
+        "term": "DE"
+    }, 
+    {
+        "count": 70873, 
+        "term": "IT"
+    }, 
+    {
+        "count": 62981, 
+        "term": "BR"
+    }, 
+    {
+        "count": 39388, 
+        "term": "AU"
+    }, 
+    {
+        "count": 36685, 
+        "term": "NL"
+    }, 
+    {
+        "count": 32460, 
+        "term": "CN"
+    }, 
+    {
+        "count": 32408, 
+        "term": "ES"
+    }, 
+    {
+        "count": 20507, 
+        "term": "IN"
+    }, 
+    {
+        "count": 19385, 
+        "term": "CO"
+    }, 
+    {
+        "count": 16073, 
+        "term": "TR"
+    }, 
+    {
+        "count": 15877, 
+        "term": "AR"
+    }, 
+    {
+        "count": 15207, 
+        "term": "SE"
+    }, 
+    {
+        "count": 14944, 
+        "term": "CH"
+    }, 
+    {
+        "count": 12204, 
+        "term": "KR"
+    }, 
+    {
+        "count": 12155, 
+        "term": "MX"
+    }, 
+    {
+        "count": 11453, 
+        "term": "BE"
+    }, 
+    {
+        "count": 11069, 
+        "term": "VE"
+    }, 
+    {
+        "count": 10077, 
+        "term": "PL"
+    }, 
+    {
+        "count": 9725, 
+        "term": "DK"
+    }, 
+    {
+        "count": 9596, 
+        "term": "TW"
+    }, 
+    {
+        "count": 9184, 
+        "term": "GR"
+    }, 
+    {
+        "count": 8899, 
+        "term": "IL"
+    }, 
+    {
+        "count": 8808, 
+        "term": "IE"
+    }, 
+    {
+        "count": 8360, 
+        "term": "AT"
+    }, 
+    {
+        "count": 7762, 
+        "term": "ZA"
+    }, 
+    {
+        "count": 7683, 
+        "term": "PT"
+    }, 
+    {
+        "count": 7670, 
+        "term": "RU"
+    }, 
+    {
+        "count": 6929, 
+        "term": "NO"
+    }, 
+    {
+        "count": 5179, 
+        "term": "FI"
+    }, 
+    {
+        "count": 4733, 
+        "term": "CZ"
+    }, 
+    {
+        "count": 4364, 
+        "term": "HU"
+    }, 
+    {
+        "count": 4099, 
+        "term": "PE"
+    }, 
+    {
+        "count": 4080, 
+        "term": "NZ"
+    }, 
+    {
+        "count": 3745, 
+        "term": "SG"
+    }, 
+    {
+        "count": 3745, 
+        "term": "RO"
+    }, 
+    {
+        "count": 3712, 
+        "term": "PH"
+    }, 
+    {
+        "count": 3598, 
+        "term": "CL"
+    }, 
+    {
+        "count": 3260, 
+        "term": "TH"
+    }, 
+    {
+        "count": 2760, 
+        "term": "HR"
+    }, 
+    {
+        "count": 2271, 
+        "term": "MY"
+    }, 
+    {
+        "count": 2087, 
+        "term": "EG"
+    }, 
+    {
+        "count": 2062, 
+        "term": "ID"
+    }, 
+    {
+        "count": 2026, 
+        "term": "PR"
+    }, 
+    {
+        "count": 1992, 
+        "term": "HK"
+    }, 
+    {
+        "count": 1813, 
+        "term": "LB"
+    }, 
+    {
+        "count": 1791, 
+        "term": "SI"
+    }, 
+    {
+        "count": 1653, 
+        "term": "PK"
+    }, 
+    {
+        "count": 1528, 
+        "term": "EC"
+    }, 
+    {
+        "count": 1525, 
+        "term": "SK"
+    }, 
+    {
+        "count": 1478, 
+        "term": "IR"
+    }, 
+    {
+        "count": 1409, 
+        "term": "VN"
+    }, 
+    {
+        "count": 1374, 
+        "term": "SA"
+    }, 
+    {
+        "count": 1227, 
+        "term": "TN"
+    }, 
+    {
+        "count": 1201, 
+        "term": "BG"
+    }, 
+    {
+        "count": 1074, 
+        "term": "RS"
+    }, 
+    {
+        "count": 869, 
+        "term": "CR"
+    }, 
+    {
+        "count": 805, 
+        "term": "DZ"
+    }, 
+    {
+        "count": 761, 
+        "term": "BD"
+    }, 
+    {
+        "count": 696, 
+        "term": "UG"
+    }, 
+    {
+        "count": 682, 
+        "term": "UA"
+    }, 
+    {
+        "count": 629, 
+        "term": "UY"
+    }, 
+    {
+        "count": 628, 
+        "term": "MA"
+    }, 
+    {
+        "count": 597, 
+        "term": "AE"
+    }, 
+    {
+        "count": 582, 
+        "term": "GT"
+    }, 
+    {
+        "count": 560, 
+        "term": "KE"
+    }, 
+    {
+        "count": 526, 
+        "term": "ET"
+    }, 
+    {
+        "count": 504, 
+        "term": "BW"
+    }, 
+    {
+        "count": 497, 
+        "term": "PA"
+    }, 
+    {
+        "count": 458, 
+        "term": "LT"
+    }, 
+    {
+        "count": 435, 
+        "term": "NG"
+    }, 
+    {
+        "count": 374, 
+        "term": "DO"
+    }, 
+    {
+        "count": 369, 
+        "term": "MW"
+    }, 
+    {
+        "count": 355, 
+        "term": "HN"
+    }, 
+    {
+        "count": 353, 
+        "term": "CY"
+    }, 
+    {
+        "count": 339, 
+        "term": "EE"
+    }, 
+    {
+        "count": 288, 
+        "term": "GE"
+    }, 
+    {
+        "count": 274, 
+        "term": "SD"
+    }, 
+    {
+        "count": 274, 
+        "term": "LU"
+    }, 
+    {
+        "count": 268, 
+        "term": "LV"
+    }, 
+    {
+        "count": 254, 
+        "term": "KZ"
+    }, 
+    {
+        "count": 254, 
+        "term": "KW"
+    }, 
+    {
+        "count": 250, 
+        "term": "OM"
+    }, 
+    {
+        "count": 240, 
+        "term": "QA"
+    }, 
+    {
+        "count": 233, 
+        "term": "KP"
+    }, 
+    {
+        "count": 232, 
+        "term": "NP"
+    }, 
+    {
+        "count": 230, 
+        "term": "GH"
+    }, 
+    {
+        "count": 227, 
+        "term": "JM"
+    }, 
+    {
+        "count": 213, 
+        "term": "JO"
+    }, 
+    {
+        "count": 209, 
+        "term": "MT"
+    }, 
+    {
+        "count": 208, 
+        "term": "IQ"
+    }, 
+    {
+        "count": 197, 
+        "term": "IS"
+    }, 
+    {
+        "count": 190, 
+        "term": "CM"
+    }, 
+    {
+        "count": 175, 
+        "term": "UZ"
+    }, 
+    {
+        "count": 166, 
+        "term": "LK"
+    }, 
+    {
+        "count": 155, 
+        "term": "ZW"
+    }, 
+    {
+        "count": 153, 
+        "term": "BA"
+    }, 
+    {
+        "count": 152, 
+        "term": "TZ"
+    }, 
+    {
+        "count": 143, 
+        "term": "SN"
+    }, 
+    {
+        "count": 136, 
+        "term": "CI"
+    }, 
+    {
+        "count": 135, 
+        "term": "BY"
+    }, 
+    {
+        "count": 125, 
+        "term": "SV"
+    }, 
+    {
+        "count": 116, 
+        "term": "AM"
+    }, 
+    {
+        "count": 115, 
+        "term": "BO"
+    }, 
+    {
+        "count": 101, 
+        "term": "AZ"
+    }, 
+    {
+        "count": 97, 
+        "term": "TT"
+    }, 
+    {
+        "count": 90, 
+        "term": "NI"
+    }, 
+    {
+        "count": 89, 
+        "term": "MK"
+    }, 
+    {
+        "count": 86, 
+        "term": "BH"
+    }, 
+    {
+        "count": 84, 
+        "term": "ME"
+    }, 
+    {
+        "count": 76, 
+        "term": "ZM"
+    }, 
+    {
+        "count": 75, 
+        "term": "PY"
+    }, 
+    {
+        "count": 75, 
+        "term": "AL"
+    }, 
+    {
+        "count": 69, 
+        "term": "CD"
+    }, 
+    {
+        "count": 67, 
+        "term": "BF"
+    }, 
+    {
+        "count": 50, 
+        "term": "RW"
+    }, 
+    {
+        "count": 44, 
+        "term": "SY"
+    }, 
+    {
+        "count": 43, 
+        "term": "KH"
+    }, 
+    {
+        "count": 43, 
+        "term": "BB"
+    }, 
+    {
+        "count": 42, 
+        "term": "CG"
+    }, 
+    {
+        "count": 41, 
+        "term": "MU"
+    }, 
+    {
+        "count": 40, 
+        "term": "MD"
+    }, 
+    {
+        "count": 32, 
+        "term": "LS"
+    }, 
+    {
+        "count": 31, 
+        "term": "NE"
+    }, 
+    {
+        "count": 31, 
+        "term": "LY"
+    }, 
+    {
+        "count": 30, 
+        "term": "MO"
+    }, 
+    {
+        "count": 29, 
+        "term": "NA"
+    }, 
+    {
+        "count": 29, 
+        "term": "BN"
+    }, 
+    {
+        "count": 28, 
+        "term": "CU"
+    }, 
+    {
+        "count": 26, 
+        "term": "MG"
+    }, 
+    {
+        "count": 26, 
+        "term": "HT"
+    }, 
+    {
+        "count": 24, 
+        "term": "MM"
+    }, 
+    {
+        "count": 24, 
+        "term": "KG"
+    }, 
+    {
+        "count": 23, 
+        "term": "BJ"
+    }, 
+    {
+        "count": 21, 
+        "term": "TG"
+    }, 
+    {
+        "count": 21, 
+        "term": "PS"
+    }, 
+    {
+        "count": 21, 
+        "term": "MN"
+    }, 
+    {
+        "count": 19, 
+        "term": "MZ"
+    }, 
+    {
+        "count": 18, 
+        "term": "UM"
+    }, 
+    {
+        "count": 18, 
+        "term": "AO"
+    }, 
+    {
+        "count": 17, 
+        "term": "SZ"
+    }, 
+    {
+        "count": 17, 
+        "term": "GW"
+    }, 
+    {
+        "count": 16, 
+        "term": "RE"
+    }, 
+    {
+        "count": 16, 
+        "term": "PG"
+    }, 
+    {
+        "count": 16, 
+        "term": "GA"
+    }, 
+    {
+        "count": 16, 
+        "term": "BS"
+    }, 
+    {
+        "count": 15, 
+        "term": "ML"
+    }, 
+    {
+        "count": 15, 
+        "term": "MC"
+    }, 
+    {
+        "count": 15, 
+        "term": "LA"
+    }, 
+    {
+        "count": 15, 
+        "term": "AF"
+    }, 
+    {
+        "count": 14, 
+        "term": "AW"
+    }, 
+    {
+        "count": 13, 
+        "term": "GF"
+    }, 
+    {
+        "count": 13, 
+        "term": "BI"
+    }, 
+    {
+        "count": 13, 
+        "term": "AD"
+    }, 
+    {
+        "count": 11, 
+        "term": "VI"
+    }, 
+    {
+        "count": 11, 
+        "term": "SR"
+    }, 
+    {
+        "count": 10, 
+        "term": "YU"
+    }, 
+    {
+        "count": 10, 
+        "term": "NC"
+    }, 
+    {
+        "count": 9, 
+        "term": "TJ"
+    }, 
+    {
+        "count": 9, 
+        "term": "GN"
+    }, 
+    {
+        "count": 9, 
+        "term": "CW"
+    }, 
+    {
+        "count": 9, 
+        "term": "BM"
+    }, 
+    {
+        "count": 8, 
+        "term": "YE"
+    }, 
+    {
+        "count": 8, 
+        "term": "KY"
+    }, 
+    {
+        "count": 8, 
+        "term": "GM"
+    }, 
+    {
+        "count": 8, 
+        "term": "GD"
+    }, 
+    {
+        "count": 8, 
+        "term": "FO"
+    }, 
+    {
+        "count": 7, 
+        "term": "SM"
+    }, 
+    {
+        "count": 7, 
+        "term": "LI"
+    }, 
+    {
+        "count": 6, 
+        "term": "MQ"
+    }, 
+    {
+        "count": 6, 
+        "term": "GU"
+    }, 
+    {
+        "count": 6, 
+        "term": "FJ"
+    }, 
+    {
+        "count": 6, 
+        "term": "CF"
+    }, 
+    {
+        "count": 5, 
+        "term": "MV"
+    }, 
+    {
+        "count": 4, 
+        "term": "SL"
+    }, 
+    {
+        "count": 4, 
+        "term": "SC"
+    }, 
+    {
+        "count": 4, 
+        "term": "SB"
+    }, 
+    {
+        "count": 4, 
+        "term": "LC"
+    }, 
+    {
+        "count": 3, 
+        "term": "VU"
+    }, 
+    {
+        "count": 3, 
+        "term": "TM"
+    }, 
+    {
+        "count": 3, 
+        "term": "KN"
+    }, 
+    {
+        "count": 3, 
+        "term": "GP"
+    }, 
+    {
+        "count": 3, 
+        "term": "GI"
+    }, 
+    {
+        "count": 3, 
+        "term": "FM"
+    }, 
+    {
+        "count": 3, 
+        "term": "BZ"
+    }, 
+    {
+        "count": 3, 
+        "term": "AN"
+    }, 
+    {
+        "count": 2, 
+        "term": "WS"
+    }, 
+    {
+        "count": 2, 
+        "term": "NR"
+    }, 
+    {
+        "count": 2, 
+        "term": "LR"
+    }, 
+    {
+        "count": 2, 
+        "term": "JE"
+    }, 
+    {
+        "count": 2, 
+        "term": "IM"
+    }, 
+    {
+        "count": 2, 
+        "term": "GL"
+    }, 
+    {
+        "count": 2, 
+        "term": "DM"
+    }, 
+    {
+        "count": 2, 
+        "term": "BT"
+    }, 
+    {
+        "count": 1, 
+        "term": "VC"
+    }, 
+    {
+        "count": 1, 
+        "term": "TP"
+    }, 
+    {
+        "count": 1, 
+        "term": "PW"
+    }, 
+    {
+        "count": 1, 
+        "term": "PM"
+    }, 
+    {
+        "count": 1, 
+        "term": "MR"
+    }, 
+    {
+        "count": 1, 
+        "term": "KI"
+    }, 
+    {
+        "count": 1, 
+        "term": "IO"
+    }, 
+    {
+        "count": 1, 
+        "term": "GY"
+    }, 
+    {
+        "count": 1, 
+        "term": "GG"
+    }, 
+    {
+        "count": 1, 
+        "term": "FX"
+    }, 
+    {
+        "count": 1, 
+        "term": "ER"
+    }, 
+    {
+        "count": 1, 
+        "term": "CV"
+    }, 
+    {
+        "count": 1, 
+        "term": "BL"
+    }, 
+    {
+        "count": 1, 
+        "term": "AX"
+    }, 
+    {
+        "count": 1, 
+        "term": "AI"
+    }, 
+    {
+        "count": 1, 
+        "term": "AG"
+    }
+]
